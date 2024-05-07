@@ -1,0 +1,14 @@
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\bin\Debug\net8.0\week 2 day 2 project.exe
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\bin\Debug\net8.0\week 2 day 2 project.deps.json
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\bin\Debug\net8.0\week 2 day 2 project.runtimeconfig.json
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\bin\Debug\net8.0\week 2 day 2 project.dll
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\bin\Debug\net8.0\week 2 day 2 project.pdb
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\obj\Debug\net8.0\week 2 day 2 project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\obj\Debug\net8.0\week 2 day 2 project.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\obj\Debug\net8.0\week 2 day 2 project.AssemblyInfo.cs
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\obj\Debug\net8.0\week 2 day 2 project.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\obj\Debug\net8.0\week 2 day 2 project.dll
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\obj\Debug\net8.0\refint\week 2 day 2 project.dll
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\obj\Debug\net8.0\week 2 day 2 project.pdb
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\obj\Debug\net8.0\week 2 day 2 project.genruntimeconfig.cache
+C:\Users\Ali\Desktop\week 2 day 2 project\week 2 day 2 project\obj\Debug\net8.0\ref\week 2 day 2 project.dll
